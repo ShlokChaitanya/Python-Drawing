@@ -1,5 +1,7 @@
 from turtle import *
 
+# PLEASE RUN DORA.PY 
+
 def my_goto(x, y):
     penup()
     goto(x, y)
